@@ -1,4 +1,4 @@
-### Hi there 👋
+Hello! Welcome to my Github. 
 
 [Check out my Portfolio!](https://portfolio-victor-zarate.herokuapp.com/)
 
